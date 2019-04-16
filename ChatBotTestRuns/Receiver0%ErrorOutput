@@ -1,0 +1,68 @@
+Last login: Thu Apr 26 02:02:28 on ttys001
+rdunkley13m5:~ rdunkley13$ cd /Users/rdunkley13/Desktop/\*Networks/\*CS313ProjectF/ChatBotProject/src 
+rdunkley13m5:src rdunkley13$ javac CBLinkReceiver.java
+rdunkley13m5:src rdunkley13$ java CBLinkReceiver
+Enter the error rate (0, 50, 60, 75, 90): 
+0
+Error trace on/off?: 
+on
+Trace is On.
+Clients Message received is: [ray | 2 | hi | 118]
+Message Sender is: ray
+Message length is: 2
+Checksum Value is: 118
+Clients Message received is: [ray | 2 | hi | 118]
+Clients Message received is: [ray | 12 | how are you? | 78]
+Message Sender is: ray
+Message length is: 12
+Checksum Value is: 78
+Clients Message received is: [ray | 12 | how are you? | 78]
+Clients Message received is: [ray | 2 | :) | -113]
+Message Sender is: ray
+Message length is: 2
+Checksum Value is: -113
+Clients Message received is: [ray | 2 | :) | -113]
+Clients Message received is: [ray | 14 | where are you? | 123]
+Message Sender is: ray
+Message length is: 14
+Checksum Value is: 123
+Clients Message received is: [ray | 14 | where are you? | 123]
+Clients Message received is: [ray | 7 | i <3 cs | -95]
+Message Sender is: ray
+Message length is: 7
+Checksum Value is: -95
+Clients Message received is: [ray | 7 | i <3 cs | -95]
+Clients Message received is: [ray | 9 | thanks :) | 121]
+Message Sender is: ray
+Message length is: 9
+Checksum Value is: 121
+Clients Message received is: [ray | 9 | thanks :) | 121]
+Clients Message received is: [ray | 16 | what time is it? | 47]
+Message Sender is: ray
+Message length is: 16
+Checksum Value is: 47
+Clients Message received is: [ray | 16 | what time is it? | 47]
+Clients Message received is: [ray | 15 | almost summer!! | 27]
+Message Sender is: ray
+Message length is: 15
+Checksum Value is: 27
+Clients Message received is: [ray | 15 | almost summer!! | 27]
+Clients Message received is: [ray | 11 | yes v cool! | -14]
+Message Sender is: ray
+Message length is: 11
+Checksum Value is: -14
+Clients Message received is: [ray | 11 | yes v cool! | -14]
+Clients Message received is: [ray | 11 | ok gtg bye! | -38]
+Message Sender is: ray
+Message length is: 11
+Checksum Value is: -38
+Clients Message received is: [ray | 11 | ok gtg bye! | -38]
+
+
+***********STATISTICS REPORT********************
+Total client messages sent: 10
+Total client messages transmitted: 10
+Theoretical total transmission: 10.00
+Number of chat messages damaged: 0
+Maximum number of retransmission for each chat message: 10
+rdunkley13m5:src rdunkley13$ 

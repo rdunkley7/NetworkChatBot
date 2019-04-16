@@ -1,0 +1,141 @@
+Last login: Thu Apr 26 02:10:08 on ttys001
+rdunkley13m5:src rdunkley13$ cd /Users/rdunkley13/Desktop/\*Networks/\*CS313ProjectF/ChatBotProject/src 
+rdunkley13m5:src rdunkley13$ java CBLinkSender
+Enter your name/ID: 
+ray
+Error trace on/off?: 
+on
+Trace is On.
+Enter a message you would like to send: 
+hello
+Message sent is:   [hello]
+Error. Need retransmission.
+Message re-sent is:   [hello]
+OK.
+Message received is: [ Hi | ray | ! | Hello]
+Enter a message you would like to send: 
+whats up?
+Message sent is:   [whats up?]
+Error. Need retransmission.
+Message re-sent is:   [whats up?]
+Error. Need retransmission.
+Message re-sent is:   [whats up?]
+Error. Need retransmission.
+Message re-sent is:   [whats up?]
+Error. Need retransmission.
+Message re-sent is:   [whats up?]
+Error. Need retransmission.
+Message re-sent is:   [whats up?]
+Error. Need retransmission.
+Message re-sent is:   [whats up?]
+Error. Need retransmission.
+Message re-sent is:   [whats up?]
+Error. Need retransmission.
+Message re-sent is:   [whats up?]
+Error. Need retransmission.
+Message re-sent is:   [whats up?]
+OK.
+Message received is: [ Hi | ray | ! | I'm great thanks! hbu? :)]
+Enter a message you would like to send: 
+wow!
+Message sent is:   [wow!]
+Error. Need retransmission.
+Message re-sent is:   [wow!]
+Error. Need retransmission.
+Message re-sent is:   [wow!]
+Error. Need retransmission.
+Message re-sent is:   [wow!]
+Error. Need retransmission.
+Message re-sent is:   [wow!]
+Error. Need retransmission.
+Message re-sent is:   [wow!]
+Error. Need retransmission.
+Message re-sent is:   [wow!]
+Error. Need retransmission.
+Message re-sent is:   [wow!]
+OK.
+Message received is: [ Hi | ray | ! | That's really cool]
+Enter a message you would like to send: 
+lol
+Message sent is:   [lol]
+OK.
+Message received is: [ Hi | ray | ! | I don't understand]
+Enter a message you would like to send: 
+:)
+Message sent is:   [:)]
+Error. Need retransmission.
+Message re-sent is:   [:)]
+OK.
+Message received is: [ Hi | ray | ! | :D]
+Enter a message you would like to send: 
+como estas?
+Message sent is:   [como estas?]
+Error. Need retransmission.
+Message re-sent is:   [como estas?]
+Error. Need retransmission.
+Message re-sent is:   [como estas?]
+Error. Need retransmission.
+Message re-sent is:   [como estas?]
+OK.
+Message received is: [ Hi | ray | ! | I don't know yet]
+Enter a message you would like to send: 
+i <3 You
+Message sent is:   [i <3 you]
+Error. Need retransmission.
+Message re-sent is:   [i <3 you]
+Error. Need retransmission.
+Message re-sent is:   [i <3 you]
+OK.
+Message received is: [ Hi | ray | ! | I <3 you]
+Enter a message you would like to send: 
+so fun!
+Message sent is:   [so fun!]
+OK.
+Message received is: [ Hi | ray | ! | That's really cool]
+Enter a message you would like to send: 
+lkjlkj
+Message sent is:   [lkjlkj]
+Error. Need retransmission.
+Message re-sent is:   [lkjlkj]
+Error. Need retransmission.
+Message re-sent is:   [lkjlkj]
+Error. Need retransmission.
+Message re-sent is:   [lkjlkj]
+Error. Need retransmission.
+Message re-sent is:   [lkjlkj]
+Error. Need retransmission.
+Message re-sent is:   [lkjlkj]
+Error. Need retransmission.
+Message re-sent is:   [lkjlkj]
+Error. Need retransmission.
+Message re-sent is:   [lkjlkj]
+Error. Need retransmission.
+Message re-sent is:   [lkjlkj]
+Error. Need retransmission.
+Message re-sent is:   [lkjlkj]
+Error. Need retransmission.
+Message re-sent is:   [lkjlkj]
+Error. Need retransmission.
+Message re-sent is:   [lkjlkj]
+OK.
+Message received is: [ Hi | ray | ! | I don't understand]
+Enter a message you would like to send: 
+ttyl bye!
+Message sent is:   [ttyl bye!]
+Error. Need retransmission.
+Message re-sent is:   [ttyl bye!]
+Error. Need retransmission.
+Message re-sent is:   [ttyl bye!]
+Error. Need retransmission.
+Message re-sent is:   [ttyl bye!]
+Error. Need retransmission.
+Message re-sent is:   [ttyl bye!]
+Error. Need retransmission.
+Message re-sent is:   [ttyl bye!]
+Error. Need retransmission.
+Message re-sent is:   [ttyl bye!]
+Error. Need retransmission.
+Message re-sent is:   [ttyl bye!]
+OK.
+Message received is: [ Hi | ray | ! | Bye! Thanks for the chat, have a nice day xoxo]
+rdunkley13m5:src rdunkley13$ 

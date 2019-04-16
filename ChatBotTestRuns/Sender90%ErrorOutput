@@ -1,0 +1,115 @@
+Last login: Thu Apr 26 02:45:53 on ttys000
+rdunkley13m5:~ rdunkley13$ cd /Users/rdunkley13/Desktop/\*Networks/\*CS313ProjectF/ChatBotProject/src 
+rdunkley13m5:src rdunkley13$ java CBLinkSender
+Enter your name/ID: 
+ray
+Error trace on/off?: 
+on
+Trace is On.
+Enter a message you would like to send: 
+hi
+Message sent is:   [hi]
+Error. Need retransmission.
+Message re-sent is:   [hi]
+Error. Need retransmission.
+Message re-sent is:   [hi]
+Error. Need retransmission.
+Message re-sent is:   [hi]
+Error. Need retransmission.
+Message re-sent is:   [hi]
+Error. Need retransmission.
+Message re-sent is:   [hi]
+Error. Need retransmission.
+Message re-sent is:   [hi]
+Error. Need retransmission.
+Message re-sent is:   [hi]
+Error. Need retransmission.
+Message re-sent is:   [hi]
+Error. Need retransmission.
+Message re-sent is:   [hi]
+OK.
+Message received is: [ Hi | ray | ! | Hello]
+Enter a message you would like to send: 
+whats up?
+Message sent is:   [whats up?]
+Error. Need retransmission.
+Message re-sent is:   [whats up?]
+Error. Need retransmission.
+Message re-sent is:   [whats up?]
+Error. Need retransmission.
+Message re-sent is:   [whats up?]
+Error. Need retransmission.
+Message re-sent is:   [whats up?]
+Error. Need retransmission.
+Message re-sent is:   [whats up?]
+Error. Need retransmission.
+Message re-sent is:   [whats up?]
+OK.
+Message received is: [ Hi | ray | ! | I'm great thanks! hbu? :)]
+Enter a message you would like to send: 
+how are you?
+Message sent is:   [how are you?]
+Error. Need retransmission.
+Message re-sent is:   [how are you?]
+OK.
+Message received is: [ Hi | ray | ! | I'm great thanks! hbu? :)]
+Enter a message you would like to send: 
+:)
+Message sent is:   [:)]
+Error. Need retransmission.
+Message re-sent is:   [:)]
+Error. Need retransmission.
+Message re-sent is:   [:)]
+OK.
+Message received is: [ Hi | ray | ! | :D]
+Enter a message you would like to send: 
+<3
+Message sent is:   [<3]
+Error. Need retransmission.
+Message re-sent is:   [<3]
+Error. Need retransmission.
+Message re-sent is:   [<3]
+Error. Need retransmission.
+Message re-sent is:   [<3]
+Error. Need retransmission.
+Message re-sent is:   [<3]
+Error. Need retransmission.
+Message re-sent is:   [<3]
+Error. Need retransmission.
+Message re-sent is:   [<3]
+Error. Need retransmission.
+Message re-sent is:   [<3]
+OK.
+Message received is: [ Hi | ray | ! | I <3 you]
+Enter a message you would like to send: 
+what time is it?
+Message sent is:   [what time is it?]
+OK.
+Message received is: [ Hi | ray | ! | I don't know yet]
+Enter a message you would like to send: 
+almost summer!
+Message sent is:   [almost summer!]
+Error. Need retransmission.
+Message re-sent is:   [almost summer!]
+OK.
+Message received is: [ Hi | ray | ! | That's really cool]
+Enter a message you would like to send: 
+wow :)
+Message sent is:   [wow :)]
+Error. Need retransmission.
+Message re-sent is:   [wow :)]
+OK.
+Message received is: [ Hi | ray | ! | :D]
+Enter a message you would like to send: 
+gtg soon
+Message sent is:   [gtg soon]
+OK.
+Message received is: [ Hi | ray | ! | I don't understand]
+Enter a message you would like to send: 
+ttyl bye!
+Message sent is:   [ttyl bye!]
+Error. Need retransmission.
+Message re-sent is:   [ttyl bye!]
+OK.
+Message received is: [ Hi | ray | ! | Bye! Thanks for the chat, have a nice day xoxo]
+rdunkley13m5:src rdunkley13$ 

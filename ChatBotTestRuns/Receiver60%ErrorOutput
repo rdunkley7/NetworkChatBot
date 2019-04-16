@@ -1,0 +1,238 @@
+Last login: Thu Apr 26 02:10:44 on ttys000
+rdunkley13m5:~ rdunkley13$ cd /Users/rdunkley13/Desktop/\*Networks/\*CS313ProjectF/ChatBotProject/src 
+rdunkley13m5:src rdunkley13$ java CBLinkReceiver
+Enter the error rate (0, 50, 60, 75, 90): 
+60
+Error trace on/off?: 
+on
+Trace is On.
+Clients Message received is: [ray | 3 | iii | 44]
+Message Sender is: ray
+Message length is: 3
+Checksum Value is: 57
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 3 | iii | 44]
+Message Sender is: ray
+Message length is: 3
+Checksum Value is: 57
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 3 | iii | 44]
+Message Sender is: ray
+Message length is: 3
+Checksum Value is: 57
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 3 | iii | 44]
+Message Sender is: ray
+Message length is: 3
+Checksum Value is: 57
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 3 | hii | 44]
+Message Sender is: ray
+Message length is: 3
+Checksum Value is: 44
+Clients Message received is: [ray | 3 | hii | 44]
+Clients Message received is: [ray | 12 | how are you? | 78]
+Message Sender is: ray
+Message length is: 12
+Checksum Value is: 78
+Clients Message received is: [ray | 12 | how are you? | 78]
+Clients Message received is: [ray | 17 | j'm doing great:) | 1]
+Message Sender is: ray
+Message length is: 17
+Checksum Value is: 7
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 17 | j'm doing great:) | 1]
+Message Sender is: ray
+Message length is: 17
+Checksum Value is: 7
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 17 | j'm doing great:) | 1]
+Message Sender is: ray
+Message length is: 17
+Checksum Value is: 7
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 17 | j'm doing great:) | 1]
+Message Sender is: ray
+Message length is: 17
+Checksum Value is: 7
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 17 | k'm doing great:) | 1]
+Message Sender is: ray
+Message length is: 17
+Checksum Value is: 5
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 17 | k'm doing great:) | 1]
+Message Sender is: ray
+Message length is: 17
+Checksum Value is: 5
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 17 | j'm doing great:) | 1]
+Message Sender is: ray
+Message length is: 17
+Checksum Value is: 7
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 17 | j'm doing great:) | 1]
+Message Sender is: ray
+Message length is: 17
+Checksum Value is: 7
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 17 | i'm doing great:) | 1]
+Message Sender is: ray
+Message length is: 17
+Checksum Value is: 1
+Clients Message received is: [ray | 17 | i'm doing great:) | 1]
+Clients Message received is: [ray | 17 | vhere are you rn? | -44]
+Message Sender is: ray
+Message length is: 17
+Checksum Value is: -42
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 17 | where are you rn? | -44]
+Message Sender is: ray
+Message length is: 17
+Checksum Value is: -44
+Clients Message received is: [ray | 17 | where are you rn? | -44]
+Clients Message received is: [ray | 10 | nk call me | -75]
+Message Sender is: ray
+Message length is: 10
+Checksum Value is: -52
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 10 | mk call me | -75]
+Message Sender is: ray
+Message length is: 10
+Checksum Value is: 71
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 10 | mk call me | -75]
+Message Sender is: ray
+Message length is: 10
+Checksum Value is: 71
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 10 | mk call me | -75]
+Message Sender is: ray
+Message length is: 10
+Checksum Value is: 71
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 10 | mk call me | -75]
+Message Sender is: ray
+Message length is: 10
+Checksum Value is: 71
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 10 | nk call me | -75]
+Message Sender is: ray
+Message length is: 10
+Checksum Value is: -52
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 10 | nk call me | -75]
+Message Sender is: ray
+Message length is: 10
+Checksum Value is: -52
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 10 | ok call me | -75]
+Message Sender is: ray
+Message length is: 10
+Checksum Value is: -75
+Clients Message received is: [ray | 10 | ok call me | -75]
+Clients Message received is: [ray | 2 | ;) | -113]
+Message Sender is: ray
+Message length is: 2
+Checksum Value is: -120
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 2 | ;) | -113]
+Message Sender is: ray
+Message length is: 2
+Checksum Value is: -120
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 2 | ;) | -113]
+Message Sender is: ray
+Message length is: 2
+Checksum Value is: -120
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 2 | ;) | -113]
+Message Sender is: ray
+Message length is: 2
+Checksum Value is: -120
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 2 | 8) | -113]
+Message Sender is: ray
+Message length is: 2
+Checksum Value is: -127
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 2 | 9) | -113]
+Message Sender is: ray
+Message length is: 2
+Checksum Value is: -122
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 2 | 8) | -113]
+Message Sender is: ray
+Message length is: 2
+Checksum Value is: -127
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 2 | 9) | -113]
+Message Sender is: ray
+Message length is: 2
+Checksum Value is: -122
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 2 | 9) | -113]
+Message Sender is: ray
+Message length is: 2
+Checksum Value is: -122
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 2 | 8) | -113]
+Message Sender is: ray
+Message length is: 2
+Checksum Value is: -127
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 2 | 8) | -113]
+Message Sender is: ray
+Message length is: 2
+Checksum Value is: -127
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 2 | :) | -113]
+Clients Message received is: [ray | 2 | <3 | -121]
+Message Sender is: ray
+Message length is: 2
+Checksum Value is: -121
+Clients Message received is: [ray | 2 | <3 | -121]
+Clients Message received is: [ray | 2 | ii | 118]
+Message Sender is: ray
+Message length is: 2
+Checksum Value is: 113
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 2 | ii | 118]
+Message Sender is: ray
+Message length is: 2
+Checksum Value is: 113
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 2 | hi | 118]
+Message Sender is: ray
+Message length is: 2
+Checksum Value is: 118
+Clients Message received is: [ray | 2 | hi | 118]
+Clients Message received is: [ray | 3 | mol | 111]
+Message Sender is: ray
+Message length is: 3
+Checksum Value is: 122
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 3 | lol | 111]
+Message Sender is: ray
+Message length is: 3
+Checksum Value is: 111
+Clients Message received is: [ray | 3 | lol | 111]
+Clients Message received is: [ray | 11 | ree you bye | 74]
+Message Sender is: ray
+Message length is: 11
+Checksum Value is: 34
+*Error. Need Retransmission.*
+Clients Message received is: [ray | 11 | see you bye | 74]
+Message Sender is: ray
+Message length is: 11
+Checksum Value is: 74
+Clients Message received is: [ray | 11 | see you bye | 74]
+
+
+***********STATISTICS REPORT********************
+Total client messages sent: 10
+Total client messages transmitted: 45
+Theoretical total transmission: 25.00
+Number of chat messages damaged: 35
+Maximum number of retransmission for each chat message: 10
+rdunkley13m5:src rdunkley13$ 

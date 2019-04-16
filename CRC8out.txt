@@ -1,0 +1,17 @@
+The 8-bit checksum w/o leading zeros is 10000000.
+The 8-bit checksum w/o leading zeros is 10000111.
+The 8-bit checksum w/o leading zeros is 111.
+The 8-bit checksum w/o leading zeros is 11001001.
+The 8-bit checksum w/o leading zeros is 0.
+The 8-bit checksum w/o leading zeros is 10100010.
+
+Checksum of checksumed frame w/o errors should be 0.
+The 8-bit checksum w/o leading zeros is 0.
+The 8-bit checksum w/o leading zeros is 0.
+The 8-bit checksum w/o leading zeros is 0.
+The 8-bit checksum w/o leading zeros is 0.
+The 8-bit checksum w/o leading zeros is 0.
+The 8-bit checksum w/o leading zeros is 0.
+
+Checksum of checksumed frame data5 with errors is not 0.
+The 8-bit checksum w/o leading zeros is 1010100.

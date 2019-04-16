@@ -1,0 +1,61 @@
+Last login: Thu Apr 26 02:06:39 on ttys001
+rdunkley13m5:~ rdunkley13$ cd /Users/rdunkley13/Desktop/\*Networks/\*CS313ProjectF/ChatBotProject/src 
+rdunkley13m5:src rdunkley13$ javac CBLinkReceiver.java
+rdunkley13m5:src rdunkley13$ javac CBLinkSender.java
+rdunkley13m5:src rdunkley13$ java CBLinkSender
+Enter your name/ID: 
+ray
+Error trace on/off?: 
+on
+Trace is On.
+Enter a message you would like to send: 
+hi
+Message sent is:   [hi]
+OK.
+Message received is: [ Hi | ray | ! | Hello]
+Enter a message you would like to send: 
+how are you?
+Message sent is:   [how are you?]
+OK.
+Message received is: [ Hi | ray | ! | I'm great thanks! hbu? :)]
+Enter a message you would like to send: 
+:)    
+Message sent is:   [:)]
+OK.
+Message received is: [ Hi | ray | ! | :D]
+Enter a message you would like to send: 
+where are you?
+Message sent is:   [where are you?]
+OK.
+Message received is: [ Hi | ray | ! | I don't know yet]
+Enter a message you would like to send: 
+i <3 CS      
+Message sent is:   [i <3 cs]
+OK.
+Message received is: [ Hi | ray | ! | I <3 you]
+Enter a message you would like to send: 
+thanks :)
+Message sent is:   [thanks :)]
+OK.
+Message received is: [ Hi | ray | ! | :D]
+Enter a message you would like to send: 
+what time is it?
+Message sent is:   [what time is it?]
+OK.
+Message received is: [ Hi | ray | ! | I don't know yet]
+Enter a message you would like to send: 
+almost summer!!
+Message sent is:   [almost summer!!]
+OK.
+Message received is: [ Hi | ray | ! | That's really cool]
+Enter a message you would like to send: 
+yes v cool!
+Message sent is:   [yes v cool!]
+OK.
+Message received is: [ Hi | ray | ! | That's really cool]
+Enter a message you would like to send: 
+ok gtg bye!
+Message sent is:   [ok gtg bye!]
+OK.
+Message received is: [ Hi | ray | ! | Bye! Thanks for the chat, have a nice day xoxo]
+rdunkley13m5:src rdunkley13$ 
